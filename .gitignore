@@ -1,0 +1,10 @@
+.env
+*.env
+__pycache__/
+*.pyc
+
+co2_extraction_output/
+not_relevant/
+*.json
+*.jsonl
+*.csv
